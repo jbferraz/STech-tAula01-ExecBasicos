@@ -26,7 +26,6 @@ public class exec03 {
                 "Informe seu saldo"));
         JOptionPane.showMessageDialog(null, "Saldo atualizado em 1% é de: "
                 + String.format("%,.2f", saldo * 1.01));
-        JOptionPane.showMessageDialog(null, "Alterado no navegador");
     }
 
 }
