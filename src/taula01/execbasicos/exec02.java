@@ -32,6 +32,8 @@ public class exec02 {
         
         System.out.println("A soma das duas médias é: "+ soma);
         System.out.println("A média geral é: " + mg);
+        //Esta alteração é para o Gabriel
+        System.out.println("Alteração feita com sucesso!!!");
     }
 
 }
